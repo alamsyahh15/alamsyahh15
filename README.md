@@ -6,7 +6,6 @@ Software Developer & Mobile Developer. Flutter & AI Enthusiast.
 
 ### Roles :
 - Mobile Developer at Ritter Code
-- Mobile Developer at Udacoding
 - Mobile Developer Freelance
 
 ### Playground :
