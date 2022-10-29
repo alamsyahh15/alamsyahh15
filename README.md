@@ -5,7 +5,8 @@ Software Developer & Mobile Developer. Flutter & AI Enthusiast.
 ![github stats](https://github-readme-stats.vercel.app/api?username=alamsyahh15&show_icons=true)
 
 ### Roles :
-- Mobile Developer at Ritter Code
+- Lead Mobile Developer Studio Alva 
+- Co-Founder at Ritter Code
 - Mobile Developer Freelance
 
 ### Playground :
