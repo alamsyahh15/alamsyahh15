@@ -12,7 +12,7 @@ Software Developer & Mobile Developer. Flutter & AI Enthusiast.
 </p>
 
 ### Roles :
-- Lead Mobile Developer Studio Alva 
+- Mobile Developer Studio Alva 
 - Co-Founder at Ritter Code
 - Mobile Developer Freelance
 
