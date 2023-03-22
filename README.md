@@ -14,7 +14,7 @@ Software Developer & Mobile Developer. Flutter & AI Enthusiast.
 [![Alamsyah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alamsyahh15&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Roles :
-- Mobile Developer Studio Alva 
+- Partnership Mobile Studio Alva 
 - Co-Founder at Ritter Code
 - Mobile Developer Freelance
 
