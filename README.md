@@ -13,8 +13,6 @@ Software Developer & Mobile Developer. Flutter & AI Enthusiast.
 
 [![Alamsyah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alamsyahh15&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Alamsyah's github stats](https://github-readme-stats.vercel.app/api?username=alamsyahh15&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
-
 ### Roles :
 - Partnership Mobile Engineer Studioalva 
 - Co-Founder at Ritter Code
