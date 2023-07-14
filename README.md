@@ -11,7 +11,7 @@ Software Developer & Mobile Developer. Flutter & AI Enthusiast.
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alamsyahh15&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alamsyahh15&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Roles :
 - Partnership Mobile Engineer at [Studioalva](https://studioalva.co/) 
