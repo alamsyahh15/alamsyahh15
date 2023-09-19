@@ -1,6 +1,6 @@
 ### Hola, I'm Alamsyah 👋
 
-Software Developer & Mobile Developer. Flutter & AI Enthusiast.
+Project Manager & Softaware Mobile Developer. Flutter & AI Enthusiast.
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=alamsyahh15&show_icons=true) -->
 <p align="center">
