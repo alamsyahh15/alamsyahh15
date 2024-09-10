@@ -13,6 +13,9 @@ Project Manager & Softaware Mobile Developer. Flutter & AI Enthusiast.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alamsyahh15&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### My Blog : 
+- Medium (https://medium.com/@alamsyah15/) 
+
 ### Roles :
 - Partnership Mobile Engineer at [Studioalva](https://studioalva.co/) 
 - Co-Founder at [Ritter Code](https//rittercoding.com/)
