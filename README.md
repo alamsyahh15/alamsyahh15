@@ -18,7 +18,7 @@ Project Manager & Softaware Mobile Developer. Flutter & AI Enthusiast.
 
 ### Roles :
 - Partnership Mobile Engineer at [Studioalva](https://studioalva.co/) 
-- Co-Founder at [Ritter Code](https//rittercoding.com/)
+<!--- Co-Founder at [Ritter Code](https//rittercoding.com/) --->
 - Mobile Developer Freelance
 
 ### Playground :
