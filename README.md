@@ -17,7 +17,7 @@ Project Manager & Softaware Mobile Developer. Flutter & AI Enthusiast.
 - Medium (https://medium.com/@alamsyah15/) 
 
 ### Roles :
-- Building with Team Nucleus UI [Nucleus UI](https://www.nucleus-ui.com/)
+- Building with Team [Nucleus UI](https://www.nucleus-ui.com/)
 - Partnership Mobile Engineer at [Studioalva](https://studioalva.co/) 
 <!--- Co-Founder at [Ritter Code](https//rittercoding.com/) --->
 - Mobile Developer Freelance
